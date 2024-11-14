@@ -61,6 +61,9 @@ a {
 #hero .hero-content p {
   animation: fadeInUp 2s ease-out;
 }
+#hero .hero-content img {
+  height: 25%;
+}
 #hero .blob {
   position: absolute;
   top: 20%;
